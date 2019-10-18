@@ -6,7 +6,7 @@
  * ????`gcc -c main.c;  gcc -c blatt.c;  gcc main.o blatt.o`
  *
  */
-#include <studio.h>
+#include <stdio.h>
 
 node* get_ifm_students(node* nodePointer, student* studendPointer)
 {
